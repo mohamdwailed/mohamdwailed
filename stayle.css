@@ -51,7 +51,7 @@ section{
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background:url(imags/wallpaperflare.com_wallpaper\ \(4\).jpg)no-repeat ;
+   background:url(FRONTEND_Localized-thumb.webp)no-repeat ;
     background-size:cover;
     background-position: center;
     background-attachment: fixed;
